@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Protos/rpc.proto" />
+  </Folder>
+  <Project Path="RpcClient/RpcClient.csproj" />
+  <Project Path="RpcServer/RpcServer.csproj" />
+</Solution>
